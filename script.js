@@ -7,7 +7,7 @@ let sender;
 if (url.searchParams.get('by') != null) {
   sender = url.searchParams.get('by');
 } else {
-  sender = "TioBotz";
+  sender = "Aku";
 }
 
 let footer = document.getElementById("credit");
